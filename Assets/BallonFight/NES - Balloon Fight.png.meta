@@ -1,0 +1,3121 @@
+fileFormatVersion: 2
+guid: fde9f65c873537e4c99536c3e6d03bd1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Balloon Fighter_0
+    21300002: NES - Balloon Fighter_1
+    21300004: NES - Balloon Fighter_2
+    21300006: NES - Balloon Fighter_3
+    21300008: NES - Balloon Fighter_4
+    21300010: NES - Balloon Fighter_5
+    21300012: NES - Balloon Fighter_6
+    21300014: NES - Balloon Fighter_7
+    21300016: NES - Balloon Fighter_8
+    21300018: NES - Balloon Fighter_9
+    21300020: NES - Balloon Fighter_10
+    21300022: NES - Balloon Fighter_11
+    21300024: NES - Balloon Fighter_12
+    21300026: NES - Balloon Fighter_13
+    21300028: NES - Balloon Fighter_14
+    21300030: NES - Balloon Fighter_15
+    21300032: NES - Balloon Fighter_16
+    21300034: NES - Balloon Fighter_17
+    21300036: NES - Balloon Fighter_18
+    21300038: NES - Balloon Fighter_19
+    21300040: NES - Balloon Fighter_20
+    21300042: NES - Balloon Fighter_21
+    21300044: NES - Balloon Fighter_22
+    21300046: NES - Balloon Fighter_23
+    21300048: NES - Balloon Fighter_24
+    21300050: NES - Balloon Fighter_25
+    21300052: NES - Balloon Fighter_26
+    21300054: NES - Balloon Fighter_27
+    21300056: NES - Balloon Fighter_28
+    21300058: NES - Balloon Fighter_29
+    21300060: NES - Balloon Fighter_30
+    21300062: NES - Balloon Fighter_31
+    21300064: NES - Balloon Fighter_32
+    21300066: NES - Balloon Fighter_33
+    21300068: NES - Balloon Fighter_34
+    21300070: NES - Balloon Fighter_35
+    21300072: NES - Balloon Fighter_36
+    21300074: NES - Balloon Fighter_37
+    21300076: NES - Balloon Fighter_38
+    21300078: NES - Balloon Fighter_39
+    21300080: NES - Balloon Fighter_40
+    21300084: NES - Balloon Fighter_42
+    21300086: NES - Balloon Fighter_43
+    21300088: NES - Balloon Fighter_44
+    21300090: NES - Balloon Fighter_45
+    21300092: NES - Balloon Fighter_46
+    21300094: NES - Balloon Fighter_47
+    21300096: NES - Balloon Fighter_48
+    21300098: NES - Balloon Fighter_49
+    21300100: NES - Balloon Fighter_50
+    21300102: NES - Balloon Fighter_51
+    21300104: NES - Balloon Fighter_52
+    21300106: NES - Balloon Fighter_53
+    21300108: NES - Balloon Fighter_54
+    21300110: NES - Balloon Fighter_55
+    21300112: NES - Balloon Fighter_56
+    21300114: NES - Balloon Fighter_57
+    21300116: NES - Balloon Fighter_58
+    21300118: NES - Balloon Fighter_59
+    21300120: NES - Balloon Fighter_60
+    21300122: NES - Balloon Fighter_61
+    21300124: NES - Balloon Fighter_62
+    21300126: NES - Balloon Fighter_63
+    21300128: NES - Balloon Fighter_64
+    21300130: NES - Balloon Fighter_65
+    21300132: NES - Balloon Fighter_66
+    21300134: NES - Balloon Fighter_67
+    21300136: NES - Balloon Fighter_68
+    21300138: NES - Balloon Fighter_69
+    21300140: NES - Balloon Fighter_70
+    21300142: NES - Balloon Fighter_71
+    21300144: NES - Balloon Fighter_72
+    21300146: NES - Balloon Fighter_73
+    21300148: NES - Balloon Fighter_74
+    21300150: NES - Balloon Fighter_75
+    21300152: NES - Balloon Fighter_76
+    21300154: NES - Balloon Fighter_77
+    21300156: NES - Balloon Fighter_78
+    21300158: NES - Balloon Fighter_79
+    21300160: NES - Balloon Fighter_80
+    21300162: NES - Balloon Fighter_81
+    21300164: NES - Balloon Fighter_82
+    21300166: NES - Balloon Fighter_83
+    21300168: NES - Balloon Fighter_84
+    21300170: NES - Balloon Fighter_85
+    21300172: NES - Balloon Fighter_86
+    21300174: NES - Balloon Fighter_87
+    21300176: NES - Balloon Fighter_88
+    21300178: NES - Balloon Fighter_89
+    21300180: NES - Balloon Fighter_90
+    21300182: NES - Balloon Fighter_91
+    21300184: NES - Balloon Fighter_92
+    21300186: NES - Balloon Fighter_93
+    21300188: NES - Balloon Fighter_94
+    21300190: NES - Balloon Fighter_95
+    21300192: NES - Balloon Fighter_96
+    21300194: NES - Balloon Fighter_97
+    21300196: NES - Balloon Fighter_98
+    21300198: NES - Balloon Fighter_99
+    21300200: NES - Balloon Fighter_100
+    21300202: NES - Balloon Fighter_101
+    21300204: NES - Balloon Fighter_102
+    21300206: NES - Balloon Fighter_103
+    21300208: NES - Balloon Fighter_104
+    21300210: NES - Balloon Fighter_105
+    21300212: NES - Balloon Fighter_106
+    21300214: NES - Balloon Fighter_107
+    21300216: NES - Balloon Fighter_108
+    21300218: NES - Balloon Fighter_109
+    21300220: NES - Balloon Fighter_110
+    21300222: NES - Balloon Fighter_111
+    21300224: NES - Balloon Fighter_112
+    21300226: NES - Balloon Fighter_113
+    21300228: NES - Balloon Fighter_114
+    21300230: NES - Balloon Fighter_115
+    21300232: NES - Balloon Fighter_116
+    21300234: NES - Balloon Fighter_117
+    21300236: NES - Balloon Fighter_118
+    21300238: NES - Balloon Fighter_119
+    21300240: NES - Balloon Fighter_120
+    21300242: NES - Balloon Fighter_121
+    21300244: NES - Balloon Fighter_122
+    21300246: NES - Balloon Fighter_123
+    21300248: NES - Balloon Fighter_124
+    21300250: NES - Balloon Fighter_125
+    21300252: NES - Balloon Fighter_126
+    21300254: NES - Balloon Fighter_127
+    21300256: NES - Balloon Fighter_128
+    21300258: NES - Balloon Fighter_129
+    21300260: NES - Balloon Fighter_130
+    21300262: NES - Balloon Fighter_131
+    21300264: NES - Balloon Fighter_132
+    21300266: NES - Balloon Fighter_133
+    21300268: NES - Balloon Fighter_134
+    21300270: NES - Balloon Fighter_135
+    21300272: NES - Balloon Fighter_136
+    21300274: NES - Balloon Fighter_137
+    21300276: NES - Balloon Fighter_138
+    21300278: NES - Balloon Fighter_139
+    21300280: NES - Balloon Fighter_140
+    21300282: NES - Balloon Fighter_141
+    21300284: NES - Balloon Fighter_142
+    21300286: NES - Balloon Fighter_143
+    21300288: NES - Balloon Fighter_144
+    21300290: NES - Balloon Fighter_145
+    21300292: NES - Balloon Fighter_146
+    21300294: NES - Balloon Fighter_147
+    21300296: NES - Balloon Fighter_148
+    21300298: NES - Balloon Fighter_149
+    21300300: NES - Balloon Fighter_150
+    21300302: NES - Balloon Fighter_151
+    21300304: NES - Balloon Fighter_152
+    21300306: NES - Balloon Fighter_153
+    21300308: NES - Balloon Fighter_154
+    21300310: NES - Balloon Fighter_155
+    21300312: NES - Balloon Fighter_156
+    21300314: NES - Balloon Fighter_157
+    21300316: NES - Balloon Fighter_158
+    21300318: NES - Balloon Fighter_159
+    21300320: NES - Balloon Fighter_160
+    21300322: NES - Balloon Fighter_161
+    21300324: NES - Balloon Fighter_162
+    21300326: NES - Balloon Fighter_163
+    21300328: NES - Balloon Fighter_164
+    21300330: NES - Balloon Fighter_165
+    21300332: NES - Balloon Fighter_166
+    21300334: NES - Balloon Fighter_167
+    21300336: NES - Balloon Fighter_168
+    21300338: NES - Balloon Fighter_169
+    21300340: NES - Balloon Fighter_170
+    21300342: NES - Balloon Fighter_171
+    21300344: NES - Balloon Fighter_172
+    21300346: NES - Balloon Fighter_173
+    21300348: NES - Balloon Fighter_174
+    21300350: NES - Balloon Fighter_175
+    21300352: NES - Balloon Fighter_176
+    21300354: NES - Balloon Fighter_177
+    21300356: NES - Balloon Fighter_178
+    21300358: NES - Balloon Fighter_179
+    21300360: Title
+    21300362: Title-A
+    21300364: Title-L
+    21300366: NES - Balloon Fighter_183
+    21300368: Title-O
+    21300370: NES - Balloon Fighter_185
+    21300372: Title-N
+    21300374: NES - Balloon Fighter_187
+    21300376: NES - Balloon Fighter_188
+    21300378: NES - Balloon Fighter_189
+    21300380: NES - Balloon Fighter_190
+    21300382: NES - Balloon Fighter_191
+    21300384: NES - Balloon Fighter_192
+    21300386: NES - Balloon Fighter_193
+    21300388: NES - Balloon Fighter_194
+    21300390: NES - Balloon Fighter_195
+    21300392: NES - Balloon Fighter_196
+    21300394: NES - Balloon Fighter_197
+    21300396: NES - Balloon Fighter_198
+    21300398: NES - Balloon Fighter_199
+    21300400: NES - Balloon Fighter_200
+    21300402: NES - Balloon Fighter_201
+    21300404: NES - Balloon Fighter_202
+    21300406: NES - Balloon Fighter_203
+    21300408: NES - Balloon Fighter_204
+    21300410: NES - Balloon Fighter_205
+    21300412: NES - Balloon Fighter_206
+    21300414: NES - Balloon Fighter_207
+    21300416: NES - Balloon Fighter_208
+    21300418: NES - Balloon Fighter_209
+    21300420: NES - Balloon Fighter_210
+    21300422: NES - Balloon Fighter_211
+    21300424: NES - Balloon Fighter_212
+    21300426: NES - Balloon Fighter_213
+    21300428: NES - Balloon Fighter_214
+    21300430: NES - Balloon Fighter_215
+    21300432: NES - Balloon Fighter_216
+    21300434: NES - Balloon Fighter_217
+    21300436: NES - Balloon Fighter_218
+    21300438: NES - Balloon Fighter_219
+    21300440: NES - Balloon Fighter_220
+    21300442: NES - Balloon Fighter_221
+    21300444: NES - Balloon Fighter_222
+    21300446: NES - Balloon Fighter_223
+    21300448: NES - Balloon Fighter_224
+    21300450: NES - Balloon Fighter_225
+    21300452: NES - Balloon Fighter_226
+    21300454: NES - Balloon Fighter_227
+    21300456: NES - Balloon Fighter_228
+    21300458: NES - Balloon Fighter_229
+    21300460: NES - Balloon Fighter_230
+    21300462: NES - Balloon Fighter_231
+    21300464: NES - Balloon Fighter_232
+    21300466: NES - Balloon Fighter_233
+    21300468: Title-F
+    21300470: Title-I
+    21300472: Title-G
+    21300474: Title-H
+    21300476: Title-T
+    21300478: NES - Balloon Fighter_239
+    21300480: NES - Balloon Fighter_240
+    21300482: NES - Balloon Fighter_241
+    21300484: NES - Balloon Fighter_242
+    21300486: NES - Balloon Fighter_243
+    21300488: NES - Balloon Fighter_244
+    21300490: NES - Balloon Fighter_245
+    21300492: NES - Balloon Fighter_246
+    21300494: NES - Balloon Fighter_247
+    21300496: NES - Balloon Fighter_248
+    21300498: NES - Balloon Fighter_249
+    21300500: NES - Balloon Fighter_250
+    21300502: NES - Balloon Fighter_251
+    21300504: NES - Balloon Fighter_252
+    21300506: NES - Balloon Fighter_253
+    21300508: NES - Balloon Fighter_254
+    21300510: NES - Balloon Fighter_255
+    21300512: NES - Balloon Fighter_256
+    21300514: NES - Balloon Fighter_257
+    21300516: NES - Balloon Fighter_258
+    21300518: NES - Balloon Fighter_259
+    21300520: NES - Balloon Fighter_260
+    21300522: NES - Balloon Fighter_261
+    21300524: NES - Balloon Fighter_262
+    21300526: NES - Balloon Fighter_263
+    21300528: NES - Balloon Fighter_264
+    21300530: NES - Balloon Fighter_265
+    21300532: NES - Balloon Fighter_266
+    21300534: NES - Balloon Fighter_267
+    21300536: NES - Balloon Fighter_268
+    21300538: NES - Balloon Fighter_269
+    21300540: NES - Balloon Fighter_270
+    21300542: NES - Balloon Fighter_271
+    21300544: NES - Balloon Fighter_272
+    21300546: NES - Balloon Fighter_273
+    21300548: NES - Balloon Fighter_274
+    21300550: NES - Balloon Fighter_275
+    21300552: NES - Balloon Fighter_276
+    21300554: NES - Balloon Fighter_277
+    21300556: NES - Balloon Fighter_278
+    21300558: NES - Balloon Fighter_279
+    21300560: NES - Balloon Fighter_280
+    21300562: NES - Balloon Fighter_281
+    21300564: NES - Balloon Fighter_282
+    21300566: NES - Balloon Fighter_283
+    21300568: NES - Balloon Fighter_284
+    21300570: NES - Balloon Fighter_285
+    21300572: NES - Balloon Fighter_286
+    21300574: NES - Balloon Fighter_282
+    21300576: NES - Balloon Fighter_283
+    21300578: NES - Balloon Fighter_284
+    21300580: NES - Balloon Fighter_285
+    21300582: NES - Balloon Fighter_286
+    21300584: NES - Balloon Fighter_287
+    21300586: NES - Balloon Fighter_41
+    21300588: NES - Balloon Fighter_288
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 168, y: 173, z: 369, w: 80}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Balloon Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 276
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 276
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 276
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 276
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 284
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 284
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 288
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 288
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 286
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_32
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_34
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_35
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_59
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 247
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 247
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 247
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 247
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_74
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_77
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 243
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_89
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 243
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_92
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_93
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 218
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_94
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_95
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_97
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 215
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_102
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 217
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_103
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 217
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_104
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_105
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 211
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_111
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 189
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 189
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_114
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 189
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_115
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 191
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_118
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 203
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_119
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 198
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_120
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 198
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_121
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 186
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 186
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 203
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_124
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 200
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_128
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_129
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_130
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_131
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 195
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_132
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 191
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_135
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_136
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_137
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 173
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_140
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 173
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_141
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_142
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 152
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_143
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_144
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_145
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 153
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_146
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_147
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 153
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_148
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_150
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_151
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 153
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_153
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 153
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_154
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_155
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_156
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_157
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_158
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_159
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_160
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_161
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_162
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_163
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 154
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_164
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 154
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_166
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 142
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_167
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 142
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_168
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_169
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_170
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_171
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_172
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_173
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_175
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_176
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_177
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_178
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_179
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Title
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 56
+        width: 223
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_187
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_189
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_190
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_191
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_193
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_194
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_195
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_196
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_197
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_198
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_200
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_201
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_202
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_203
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_204
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_205
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_206
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_207
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_210
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_211
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_212
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_213
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 110
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_215
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_216
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_217
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_218
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_219
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_220
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_221
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_222
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_223
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_224
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_225
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_226
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 110
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_227
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 110
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_228
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_229
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 110
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_230
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_231
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_232
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_233
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_239
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_240
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_241
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_242
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_243
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_244
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_245
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_246
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_247
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_249
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_250
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_251
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_252
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_253
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_254
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_255
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_256
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_257
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_258
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_259
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_260
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_261
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_262
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_263
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_264
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_265
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_266
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_267
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_268
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_269
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_270
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_271
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_272
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_274
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_275
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_276
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_277
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_278
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_279
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_280
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_281
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_282
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_283
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 85
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_284
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_285
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_286
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 333
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_287
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Balloon Fighter_288
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
