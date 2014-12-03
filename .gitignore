@@ -5,3 +5,6 @@
 /obj
 /Assembly-CSharp.csproj
 /Assembly-CSharp-vs.csproj
+/Assembly-CSharp-Editor-vs.csproj
+/Assembly-CSharp-Editor.csproj
+/BalloonFight.suo

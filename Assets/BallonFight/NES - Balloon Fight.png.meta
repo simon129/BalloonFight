@@ -38,13 +38,13 @@ TextureImporter:
     21300066: NES - Balloon Fighter_33
     21300068: NES - Balloon Fighter_34
     21300070: NES - Balloon Fighter_35
-    21300072: NES - Balloon Fighter_36
-    21300074: NES - Balloon Fighter_37
-    21300076: NES - Balloon Fighter_38
-    21300078: NES - Balloon Fighter_39
-    21300080: NES - Balloon Fighter_40
-    21300084: NES - Balloon Fighter_42
-    21300086: NES - Balloon Fighter_43
+    21300072: Grass1
+    21300074: Grass2
+    21300076: Grass3
+    21300078: Grass4
+    21300080: Grass5
+    21300084: Grass7
+    21300086: Grass8
     21300088: NES - Balloon Fighter_44
     21300090: NES - Balloon Fighter_45
     21300092: NES - Balloon Fighter_46
@@ -54,8 +54,8 @@ TextureImporter:
     21300100: NES - Balloon Fighter_50
     21300102: NES - Balloon Fighter_51
     21300104: NES - Balloon Fighter_52
-    21300106: NES - Balloon Fighter_53
-    21300108: NES - Balloon Fighter_54
+    21300106: Clay1
+    21300108: Clay2
     21300110: NES - Balloon Fighter_55
     21300112: NES - Balloon Fighter_56
     21300114: NES - Balloon Fighter_57
@@ -170,16 +170,16 @@ TextureImporter:
     21300332: NES - Balloon Fighter_166
     21300334: NES - Balloon Fighter_167
     21300336: NES - Balloon Fighter_168
-    21300338: NES - Balloon Fighter_169
-    21300340: NES - Balloon Fighter_170
-    21300342: NES - Balloon Fighter_171
-    21300344: NES - Balloon Fighter_172
-    21300346: NES - Balloon Fighter_173
-    21300348: NES - Balloon Fighter_174
-    21300350: NES - Balloon Fighter_175
-    21300352: NES - Balloon Fighter_176
-    21300354: NES - Balloon Fighter_177
-    21300356: NES - Balloon Fighter_178
+    21300338: 0
+    21300340: 1
+    21300342: 2
+    21300344: 3
+    21300346: 4
+    21300348: 5
+    21300350: 6
+    21300352: 7
+    21300354: 8
+    21300356: 9
     21300358: NES - Balloon Fighter_179
     21300360: Title
     21300362: Title-A
@@ -192,13 +192,13 @@ TextureImporter:
     21300376: NES - Balloon Fighter_188
     21300378: NES - Balloon Fighter_189
     21300380: NES - Balloon Fighter_190
-    21300382: NES - Balloon Fighter_191
-    21300384: NES - Balloon Fighter_192
-    21300386: NES - Balloon Fighter_193
-    21300388: NES - Balloon Fighter_194
-    21300390: NES - Balloon Fighter_195
-    21300392: NES - Balloon Fighter_196
-    21300394: NES - Balloon Fighter_197
+    21300382: A
+    21300384: B
+    21300386: C
+    21300388: D
+    21300390: E
+    21300392: F
+    21300394: G
     21300396: NES - Balloon Fighter_198
     21300398: NES - Balloon Fighter_199
     21300400: NES - Balloon Fighter_200
@@ -293,7 +293,7 @@ TextureImporter:
     21300578: NES - Balloon Fighter_284
     21300580: NES - Balloon Fighter_285
     21300582: NES - Balloon Fighter_286
-    21300584: NES - Balloon Fighter_287
+    21300584: Grass6
     21300586: NES - Balloon Fighter_41
     21300588: NES - Balloon Fighter_288
   serializedVersion: 2
@@ -697,7 +697,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_36
+    - name: Grass1
       rect:
         serializedVersion: 2
         x: 178
@@ -707,7 +707,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_37
+    - name: Grass2
       rect:
         serializedVersion: 2
         x: 188
@@ -717,7 +717,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_38
+    - name: Grass3
       rect:
         serializedVersion: 2
         x: 198
@@ -727,7 +727,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_39
+    - name: Grass4
       rect:
         serializedVersion: 2
         x: 208
@@ -737,7 +737,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_40
+    - name: Grass5
       rect:
         serializedVersion: 2
         x: 222
@@ -757,7 +757,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_42
+    - name: Grass7
       rect:
         serializedVersion: 2
         x: 242
@@ -767,7 +767,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_43
+    - name: Grass8
       rect:
         serializedVersion: 2
         x: 252
@@ -867,7 +867,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_53
+    - name: Clay1
       rect:
         serializedVersion: 2
         x: 364
@@ -877,7 +877,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_54
+    - name: Clay2
       rect:
         serializedVersion: 2
         x: 374
@@ -2027,7 +2027,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_169
+    - name: 0
       rect:
         serializedVersion: 2
         x: 196
@@ -2037,7 +2037,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_170
+    - name: 1
       rect:
         serializedVersion: 2
         x: 205
@@ -2047,7 +2047,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_171
+    - name: 2
       rect:
         serializedVersion: 2
         x: 213
@@ -2057,7 +2057,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_172
+    - name: 3
       rect:
         serializedVersion: 2
         x: 222
@@ -2067,7 +2067,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_173
+    - name: 4
       rect:
         serializedVersion: 2
         x: 231
@@ -2077,7 +2077,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_174
+    - name: 5
       rect:
         serializedVersion: 2
         x: 240
@@ -2087,7 +2087,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_175
+    - name: 6
       rect:
         serializedVersion: 2
         x: 249
@@ -2097,7 +2097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_176
+    - name: 7
       rect:
         serializedVersion: 2
         x: 258
@@ -2107,7 +2107,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_177
+    - name: 8
       rect:
         serializedVersion: 2
         x: 267
@@ -2117,7 +2117,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_178
+    - name: 9
       rect:
         serializedVersion: 2
         x: 276
@@ -2187,7 +2187,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_191
+    - name: A
       rect:
         serializedVersion: 2
         x: 183
@@ -2197,7 +2197,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_192
+    - name: B
       rect:
         serializedVersion: 2
         x: 192
@@ -2207,7 +2207,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_193
+    - name: C
       rect:
         serializedVersion: 2
         x: 201
@@ -2217,7 +2217,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_194
+    - name: D
       rect:
         serializedVersion: 2
         x: 210
@@ -2227,7 +2227,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_195
+    - name: E
       rect:
         serializedVersion: 2
         x: 219
@@ -2237,7 +2237,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_196
+    - name: F
       rect:
         serializedVersion: 2
         x: 229
@@ -2247,7 +2247,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_197
+    - name: G
       rect:
         serializedVersion: 2
         x: 238
@@ -3097,7 +3097,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Balloon Fighter_287
+    - name: Grass6
       rect:
         serializedVersion: 2
         x: 232
